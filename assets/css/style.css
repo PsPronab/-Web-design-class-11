@@ -1,0 +1,51 @@
+.main
+{
+    height:420px;
+    overflow: hidden;
+    min-height: 420;
+}
+.div-40
+{
+width:40%;
+float: left;
+}
+.div-60
+{
+width:60%;
+float: left;
+}
+.bg-dark-blue
+{
+    background: rgb(40, 19, 160);
+}
+.text-white
+{
+    color: white;
+}
+.join-section
+{
+    padding:78px 50px;
+    margin-left: -38;
+}
+.a-btn
+{
+
+}
+.b-btn
+{
+}
+.text-gray
+{
+  color: rgb(130, 148, 148); 
+}
+.text-red
+{
+  color: rgb(10, 0, 2); 
+}
+.div-4{
+    width:40%;
+    float: left;
+     background-image:  url('../images/left-back.PNG')  
+     padding: 136px 43px;
+}
+
